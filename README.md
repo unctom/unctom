@@ -6,7 +6,7 @@ Building modern web applications with Laravel and React ecosystem.
 </p>
 
 <p align="center">
-<a href="https://africoretechsolutions.com">🌐 Website</a> •
+<a href="https://africoretechsolutions.com">Website</a> •
 <a href="https://linkedin.com/in/thomas-simbamwene-33458a242">LinkedIn</a>
 </p>
 
