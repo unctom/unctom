@@ -2,8 +2,7 @@
 
 Full-stack developer focused on building reliable web applications.
 
-🌍 Tanzania  
-🌐 https://africoretechsolutions.com
+🇹🇿 . https://africoretechsolutions.com
 
 ---
 
@@ -19,7 +18,7 @@ Full-stack developer focused on building reliable web applications.
 
 ---
 
-## Question
+## 🤔
 
 > **Why ship everyday?  
 > The Strait of Hormuz is locked.**
